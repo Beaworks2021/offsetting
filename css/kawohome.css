@@ -1,0 +1,54 @@
+.kawologo {
+
+padding: 2rem;
+}
+
+.nav-container{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.nav-container img{
+    opacity: 1;
+}
+
+.nav-container ul{
+    list-style: none;
+}
+
+.nav-container li{
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.nav-container a{
+    display: block;
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+  }
+
+
+  .mainbg {
+
+    background-image:url(../images/bg-image.jpg);
+  }
+
+
+  .hometext {
+
+    color: white;
+    margin-top: 10rem;
+    margin-bottom: 20rem;
+
+  }
+
+  .homerow1 {
+
+    padding: 2rem;
+
+  }
+

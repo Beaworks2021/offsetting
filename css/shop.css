@@ -1,0 +1,57 @@
+.btncss{
+
+	background-color: black;
+	color: white;
+	/*margin: auto;*/
+	padding: 1rem 1rem;
+	width : 100%;
+}
+
+.cardbdr{
+
+	border-width: 0px;
+}
+
+
+.pricebold{
+
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+.btn2 {
+
+	border-width: 1px;
+	border-color: black;
+	margin: 1px;
+}
+
+
+.sizesmain {
+
+	background-color: #dad9d7;
+	width: 45px;
+	height: 45px;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.topsizes{
+
+	margin-bottom: 1rem;
+}
+
+
+
+.shiptop {
+
+	background-color: black;
+	color: white;
+	position: absolute;
+	margin-left:110px ;
+	padding: 2px;
+	font-size: 12px;
+}

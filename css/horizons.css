@@ -1,0 +1,34 @@
+.car-inner {
+
+position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+
+
+.flags {
+
+    display: block;
+    margin: auto;
+}
+
+.footer {
+    background-color: #001e5f;
+    padding: 3rem;
+
+}
+
+
+.mainh4{
+    color: orange;
+}
+
+.mainh5{
+    color: greenyellow;
+}
+
+.mainp1{
+    color: white;
+}
+

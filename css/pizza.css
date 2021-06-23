@@ -1,0 +1,39 @@
+.nav-css {
+background-color: yellow;
+border: black;
+
+}
+
+.pizza-logo {
+
+	color: yellow;
+	font-weight: bolder;
+
+}
+
+.link-css {
+
+}
+
+
+.car-inner {
+
+position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+
+.abt1 {
+
+	margin-top: 3rem;
+	margin-bottom: 4rem;
+}
+
+.footer {
+
+background-color: black;
+color: yellow;
+padding: 1.5rem 0;
+
+}
